@@ -1,1 +1,3 @@
+New first line
+
 Initial Content
